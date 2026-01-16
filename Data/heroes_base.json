@@ -1,4 +1,5 @@
-[
+{
+  "heroes":[
   {
     "Hero name": "Adana",
     "Color": "Green",
@@ -7904,4 +7905,5 @@
     "A3 Gears": "Incandescent Amulet of Earth, Exalted Sword, Exalted Ring of Earth, Divine Helmet, Divine Vial, Exalted Leather Armor"
   }
 ]
+}
 
