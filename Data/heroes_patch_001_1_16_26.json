@@ -1,4 +1,5 @@
-[
+{
+  "heroes":[
   {
     "Hero name": "Zana",
     "Color": "Green",
@@ -104,3 +105,4 @@
     "A3 Gears": "Incandescent Amulet of Sun, Exalted Staff, Exalted Ring of Sun, Legendary Hat, Legendary Grimoire, Legendary Hide Armor"
   }
 ]
+}
